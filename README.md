@@ -53,5 +53,5 @@
 <div align="center">
   <img src="https://visitcount.itsvg.in/api?id=TanushRaina&icon=5&color=0" alt="Visitor Count" />
   <br />
-  <sub>Built with ❤️ by Tanush</sub>
+  <sub>
 </div>
