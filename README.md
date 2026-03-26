@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=435&lines=AI+%26+Machine+Learning+Specialist;Full-Stack+Web+Developer;Problem+Solver+|+Design+Thinker;Building+HydroNex+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=500&lines=CSE+(AI+%26+ML)+Student;Building+HydroNex+AI;Developing+StudyAI;Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
 ---
@@ -13,13 +13,13 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/MarikIshtar007/MarikIshtar007/master/images/Left_Sticker.gif" align="right" width="150" />
   
-  I am a **Computer Science Engineering student** at MIET Jammu, dedicated to bridging the gap between complex AI algorithms and intuitive user experiences. My work focuses on building **intelligent, responsive systems** that solve real-world problems.
+  I am a **first-year Computer Science Engineering student** at MIET Jammu, specializing in **AI and Machine Learning**. I focus on problem-solving and innovative technology, using **Design Thinking** to build creative and practical solutions.
 </p>
 
-* 🚀 **Currently building:** **HydroNex AI** & **FaceMetric AI**
-* 🧠 **Tech Focus:** Neural Networks, Computer Vision, and Glassmorphism Design
-* 🛠️ **Favorite Stack:** Python + Flask + Advanced CSS Animations
-* 🎮 **Hobby:** Exploring drone tech and high-performance gaming
+* 🚀 **Current Projects:** **HydroNex AI** & **StudyAI**
+* 🧠 **Interests:** Data Structures & Algorithms, C Programming, and AI Development
+* 🛠️ **Tech Focus:** Responsive Web Design & Python-based AI Tools
+* 🎮 **Hobby:** Gaming and exploring Drone Technology
 
 ---
 
@@ -33,7 +33,7 @@
 
 ### 💻 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,py,html,css,js,flask,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=c,py,html,css,js,flask,git,github,vscode" />
 </p>
 
 ---
