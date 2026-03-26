@@ -47,11 +47,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TanushRaina&theme=tokyonight&border_radius=10" width="97%" />
 </p>
-
----
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=TanushRaina&icon=5&color=0" alt="Visitor Count" />
-  <br />
-  <sub>
-</div>
